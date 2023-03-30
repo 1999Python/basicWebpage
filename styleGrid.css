@@ -1,0 +1,480 @@
+
+@media (min-width:960px)
+{
+    p{
+    padding: 0.4em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    font-weight: 200;
+    word-break: break-all;
+    
+}
+h1, h2, h3, h4, p{
+    background-color: #f3cfcf;
+    padding: 0.2em;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 4em;
+    text-align: center;
+   
+    text-shadow: -2px -2px 0 rgb(206, 132, 212), 2px -2px 0 rgb(230, 192, 255), -2px 2px 0 rgb(206, 132, 212), 2px 2px 0 rgb(206, 132, 212);
+}
+h2{
+    font-size: 2.2em;
+    margin-left: 1em;
+    text-align: center;
+}
+h3{
+    font-size: 2em;
+    margin-left: 0.6em;
+    display: inline;
+    
+}
+.lang{
+    background-color: #f3cfcf; 
+}
+.abuPara{
+    background-color: #f3cfcf; 
+}
+
+.bic{
+    margin-left: 22em;
+}
+
+.Pic {
+    width: 60%;
+}
+
+th {
+    height: 60%;
+}
+table{
+    width: 90%;
+    margin: auto;
+}
+
+.subsect1 {
+    word-break: break-all;
+
+    display: contents;
+    padding: 0.4em;
+  
+}
+
+.subsect2 {
+    word-break: break-all;
+
+    display: contents;
+    padding: 0.4em;
+   
+}
+
+.subsect3 {
+    word-break: break-all;
+    display: contents;
+    padding: 0.3em;
+   
+}
+
+   
+
+
+.left {
+    float: left;
+    clear: both;
+    margin-right : 0.5em;
+    margin-top: 0.6em;
+    width : 60%;
+}
+
+.right {
+    float: right;
+    margin-top: 0.6em;
+    clear: both;
+    margin-right: 0.5em;
+     width: 58%;
+}
+
+
+}
+
+
+
+@media (max-width:760px){
+
+p{
+    background-color: #f3cfcf;
+    padding: 0.4em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.75em;
+    font-weight: 200;
+    word-break: break-all;
+    
+}
+h1, h2, h3, h4, p{
+    background-color: #f3cfcf;
+    display: inline;
+    padding: 0.2em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+    margin-left: 1.2em;
+    text-shadow: -2px -2px 0 rgb(206, 132, 212), 2px -2px 0 rgb(230, 192, 255), -2px 2px 0 rgb(206, 132, 212), 2px 2px 0 rgb(206, 132, 212);
+}
+h2{
+    font-size: 1.5em;
+    margin-left: 1em;
+}
+h3{
+    font-size: 1.2em;
+    margin-left: 0.6em;
+}
+.Pic{
+    width: 60%;
+    margin-left: 5.7em;
+}
+table{
+    width: 90%;
+    margin-left: 0.9em;
+}
+.left {
+    float: left;
+    margin-right: 0.5em;
+    width: 30%;
+    padding: 0.2em;
+    margin: 0.2em;
+}
+
+.right {
+    float: right;
+    width: 38%;
+    padding: 0.2em;
+    margin: 0.4em;
+}
+.para4{
+    margin-left: 0.2em;
+    margin-right: 1em;
+}
+}
+.para2{
+    margin-left: 0.5em;
+    margin-right: 3em;
+}
+.para{
+    margin-left: 0.2em;
+    margin-right: 3em;
+}
+.para3_1{
+    margin-left: 0.2em;
+    margin-right: 1em;
+}
+.para3_2{
+    margin-left: 0.2em;
+    margin-right: 1em;
+}
+.para3_3{
+    margin-left: 0.2em;
+    margin-right: 1em;
+}
+
+
+
+
+/* table,
+th,
+td {
+    background-image: linear-gradient(rgba(255, 0, 0, 0.233), rgba(255, 255, 0, 0.349));
+    border-collapse: collapse; */
+    /* border: 3px solid rgb(0, 0, 0);
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+th {
+    height: 60%;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+}  */
+
+/* .abu {
+
+    width: 80%;
+}
+
+.Pic {
+    padding-top: 5em;
+    width: 80%;
+    margin-left: 3.5em;
+    border-radius: 50%;
+    padding-left: 0.5em;
+    padding-top: 1.5em;
+
+
+
+}
+
+
+
+body {
+    background-color: white;
+    font-size: 1.5em;
+}
+
+h1 {
+    font-size: 6vw;
+    color: black;
+    font-size: 4em;
+    font-family: sans-serif;
+    text-shadow: -2px -2px 0 rgb(206, 132, 212), 2px -2px 0 rgb(230, 192, 255), -2px 2px 0 rgb(206, 132, 212), 2px 2px 0 rgb(206, 132, 212);
+    padding-right: 0.2em;
+    padding-top: 1.2em;
+    padding-bottom: 0.2em;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 0.1em;
+    text-align: center;
+    background-color: #f3cfcf;
+    font-size: 1.7em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.4em;
+    background-color: #f3cfcf;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.araH {
+    margin-left: 19.5em;
+}
+
+.fl{
+    margin-left: 3.5em;
+}
+.hist{
+    margin-left: 3.5em;
+}
+
+.a {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+
+.container {
+    width: 100% !important;
+}
+
+.araH {
+    margin-left: 19.5em;
+}
+
+
+@media (min-width:960px) {
+    table {
+        width: 80%;
+        margin-top: 2em;
+        margin-right: 2em;
+        margin-left: 3em;
+    }
+
+    p {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        font-size: 0.75em;
+        background-color: #f3cfcf;
+        font-family: 'Courier New', Courier, monospace;
+
+    }
+
+    .places {
+
+        font-family: 'Courier New', Courier, monospace;
+        background-color: #f3cfcf;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
+
+    .main {
+        margin: auto;
+        width: 70%;
+    }
+
+    .abu {
+        width: 85%;
+        float: left !important;
+    }
+
+    /* .araH {
+        margin-left: 19.5em;
+    /* } 
+    .abuPara {
+
+        font-size: 0.7em;
+        padding-left: 1.2em;
+        padding-right: 1.2em;
+        padding-top: 1.2em;
+        padding-bottom: 1.5em;
+        margin-right: 15em;
+    }
+
+
+    .places {
+        float: left;
+      
+
+    }
+} 
+
+
+
+/* @media (max-width:760px) {
+    table {
+        width: 40%;
+        margin-top: 2em;
+        margin-right: 2em;
+        margin-left: 1em;
+        font-size: 0.7em;
+        font-style: oblique;
+    }
+
+    h1 {
+        font-size: 2.2em;
+
+        text-shadow: -2px -2px 0 rgb(206, 132, 212), 2px -2px 0 rgb(230, 192, 255), -2px 2px 0 rgb(206, 132, 212), 2px 2px 0 rgb(206, 132, 212);
+        color: black;
+        font-family: 'Courier New', Courier, monospace;
+
+    }
+
+    .Pic {
+        width: 40%;
+        /* margin-right: 5em; */
+        /* margin-left: 0.7em;
+        padding-right: 0.3em;
+        
+    } */
+
+    /* .abu {
+        width: 40%;
+
+    }
+
+    .abuPara {
+        margin-right: 55em;
+    }
+
+    .araH {
+        margin-right: 25em;
+    }
+  
+
+    .lang {
+        margin-left: 1.5em;
+        padding-left: 1.3em;
+        padding-right: 0.2em;
+    }
+
+    .bic {
+        margin-left: 5em;
+    }
+
+    /* h2 {
+        font-size: larger;
+        display: inline;
+        color: black;
+        font-family: 'Courier New', Courier, monospace; 
+
+    }
+/* 
+    h3 {
+        font-size: 1.4em;
+        display: inline;
+        color: black;
+        font-family: 'Courier New', Courier, monospace;
+
+    } */
+
+    /* p {
+
+        font-size: 0.6em;
+        background-color: #f3cfcf;
+        font-family: 'Courier New', Courier, monospace;
+        width: 40%;
+        height: 40%;
+        margin-top: 1.9em;
+        padding-top: 1.5em;
+        padding-bottom: 0.3em;
+        padding-left: 1.3em;
+        padding-right: 1.5em;
+        margin-right: 30em;
+    } */
+
+    /* .abuH {
+        margin-left: 6em;
+        background-color: #f3cfcf;
+        display: inline;
+        padding-top: 0.3em;
+        padding-bottom: 0.3em;
+        padding-left: 0.3em;
+        padding-right: 0.3em;
+    }
+
+    .cityh {
+        margin-left: 7em;
+        padding-top: 0.3em;
+        padding-bottom: 0.3em;
+        padding-left: 0.3em;
+        padding-right: 0.3em;
+    }
+    .head{
+        margin-left: 22em;
+    } */
+
+/* 
+    .subsect1 {
+        word-break: break-all;
+    }
+
+    .subsect2 {
+        word-break: break-all;
+    }
+
+    .subsect3 {
+        word-break: break-all; */
+    
+/* 
+    .left {
+        float: left;
+        margin-right: 0.5em;
+        width: 30%;
+    }
+
+    .right {
+        float: left;
+        /* margin-right: 0.5em; */
+        /* width: 38%;
+    }
+
+
+} */
